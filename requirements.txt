@@ -1,0 +1,20 @@
+-e .
+
+ipywidgets
+joblib
+jupyterlab
+jupyterlab-widgets
+librosa
+matplotlib
+numpy
+pathlib
+pandas
+plotly
+python-sofa
+SciencePlots
+scipy
+sounddevice
+soundfile
+tqdm
+trimesh
+typing-extensions

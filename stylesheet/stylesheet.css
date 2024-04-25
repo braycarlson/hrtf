@@ -1,0 +1,49 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 90%;
+    table-layout: fixed;
+}
+
+thead {
+    display: none;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    font-size: 20px;
+    padding: 0px 30px;
+}
+
+tr th:nth-child(2) {
+    font-weight: normal;
+}
+
+tr:nth-child(odd) {
+    background: #EDEDED;
+}
+
+td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+
+.left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30% !important;
+}
+
+.left video {
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+}
+
+.right {
+    width: 70% !important;
+    overflow: hidden !important;
+}
