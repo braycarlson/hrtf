@@ -6,7 +6,7 @@ A demonstration of the Head-related Transfer Function (HRTF) and convolving audi
 
 ## Prerequisites
 
-* [Python 3.11.2](https://www.python.org/downloads/)
+* [pyenv](https://github.com/pyenv/pyenv) or [Python 3.11.2](https://www.python.org/downloads/)
 
 
 ## Setup
