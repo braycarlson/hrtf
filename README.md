@@ -1,4 +1,4 @@
-## HRTF Demonstration
+## A Head-related Transfer Function (HRTF) Demonstration
 
 A demonstration of the Head-related Transfer Function (HRTF) and convolving audio by [Angela De Sousa Costa](https://github.com/angeladesousacosta), [Brayden Carlson](https://github.com/braycarlson) and [Tyrell Martens](https://github.com/Hotrod1220).
 
